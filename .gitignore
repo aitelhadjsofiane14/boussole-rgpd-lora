@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Projet Boussole RGPD : poids du modèle et sorties d'entraînement
+# (l'adaptateur LoRA sera publié sur Hugging Face, pas sur GitHub)
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+outputs/
+adapters/
