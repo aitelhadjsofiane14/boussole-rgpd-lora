@@ -189,3 +189,6 @@ cython_debug/
 checkpoints/
 outputs/
 adapters/
+# Archives et fichiers techniques (l'adaptateur ira sur Hugging Face)
+*.zip
+.gradio/

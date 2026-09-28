@@ -1,0 +1,8 @@
+id,categorie,motif,statut,probleme
+D0119,C,échantillon,corrige,Réponse trop vague sur la prospection (« dans le respect des règles applicables ») : préciser la règle du consentement pour les particuliers.
+D0283,H,échantillon,corrige,"Imprécision : la liste des pièces qu'un bailleur peut demander est fixée par les textes, pas seulement par des recommandations de la CNIL."
+D0181,D,échantillon,corrige,"Relecture externe : refus injustifié de citer les durées de la CNIL (six mois pour les enregistrements, un an pour les documents d'analyse)."
+D0159,D,relecture externe,corrige,"Relecture externe : refus de citer une durée stable et connue (dix ans pour les pièces comptables, code de commerce)."
+D0160,D,relecture externe,corrige,Relecture externe : refus injustifié de citer la durée de référence de la CNIL pour les prospects (trois ans).
+D0162,D,relecture externe,corrige,Relecture externe : refus injustifié de citer la recommandation de la CNIL sur la journalisation (six mois à un an).
+D0175,D,relecture externe,corrige,Relecture externe : citer la bonne pratique vérifiée (six mois pour le choix) ; la durée de vie des traceurs reste non citée faute de vérification.
