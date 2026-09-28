@@ -1,0 +1,24 @@
+{
+  "modele_base": "Qwen/Qwen3-4B-Instruct-2507",
+  "quantification": "4 bits NF4, double quantification, calcul fp16",
+  "r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "down_proj",
+    "gate_proj",
+    "k_proj",
+    "o_proj",
+    "q_proj",
+    "up_proj",
+    "v_proj"
+  ],
+  "learning_rate": 0.0002,
+  "batch_effectif": 16,
+  "epoques_max": 4,
+  "max_len": 1024,
+  "meilleur_checkpoint": "outputs/lora/checkpoint-36",
+  "meilleure_perte_validation": 1.3230986595153809,
+  "perte_test_base": 2.8052165508270264,
+  "perte_test_adapte": 1.3415982723236084
+}

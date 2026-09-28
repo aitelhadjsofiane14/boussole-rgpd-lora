@@ -1,0 +1,9 @@
+,B,C,LoRA
+réponses de 3 à 6 phrases (%),98.0,95.0,92.0
+réponses tronquées (%),0.0,0.0,0.0
+chiffre/URL/article à vérifier (%),38.0,30.0,8.0
+renvoi CNIL/DPO/avocat (%),60.0,75.0,32.0
+tutoiement (%),65.0,5.0,0.0
+mise en forme markdown (%),22.0,12.0,0.0
+tokens de prompt (moyenne),348.0,668.0,348.0
+tokens de réponse (moyenne),168.0,120.0,90.0
