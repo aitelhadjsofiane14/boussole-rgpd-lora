@@ -4,11 +4,9 @@
 
 Projet réalisé dans le cadre du mini-projet « Du Transformer pré-entraîné à une application de dialogue » (Master, septembre 2026).
 
-- Adaptateur LoRA : [huggingface.co/sofianeAit/boussole-rgpd-lora](https://huggingface.co/sofianeAit/boussole-rgpd-lora)
 - Rapport : [`rapport/rapport.pdf`](rapport/rapport.pdf)
 - Notebook complet : [`agent.ipynb`](agent.ipynb)
 
-![Interface Gradio](images/interface_refus.png)
 
 > Projet pédagogique : l'agent ne fournit pas de conseil juridique et peut produire des informations inexactes.
 
