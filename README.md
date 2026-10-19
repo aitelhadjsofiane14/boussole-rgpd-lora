@@ -84,4 +84,4 @@ Python, PyTorch, Hugging Face Transformers, PEFT (LoRA), bitsandbytes (quantific
 
 ## Auteurs
 
-Sofiane Ait El Hadj, Romain Comparetto, Adam Terrak, Assia Brouziyne
+Sofiane Ait El Hadj
