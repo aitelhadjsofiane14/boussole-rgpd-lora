@@ -2,8 +2,8 @@ BOUSSOLE RGPD - INSTRUCTIONS D'EXECUTION
 =========================================
 
 Agent conversationnel RGPD et AI Act, construit a partir de Qwen3-4B-Instruct-2507
-et adapte par QLoRA. Mini-projet 2.
-Auteurs : Sofiane Ait El Hadj, Romain Comparetto, Adam Terrak, Assia Brouziyne.
+et adapte par QLoRA. Mini-projet.
+Auteur : Sofiane Ait El Hadj
 
 
 1. CONTENU DU RENDU
